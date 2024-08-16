@@ -10,5 +10,6 @@ Just Upload an image of dish you want to make and out bot will return the ingred
 
 If you want to run this project on your system follow the following steps:
 
-pip install -r requirements.txt
-python run app.py
+1. pip install -r requirements.txt
+2. python run app.py
+
